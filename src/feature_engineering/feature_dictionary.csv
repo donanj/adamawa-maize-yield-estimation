@@ -1,0 +1,34 @@
+feature_id,name,unit,tier,main_valid_rows,main_missing_rows,status
+V01,SOS,day of year,1,32,26,candidate_subject_to_training_partition_80pct_rule
+V02,EOS,day of year,1,32,26,candidate_subject_to_training_partition_80pct_rule
+V03,Season length,days,1,32,26,candidate_subject_to_training_partition_80pct_rule
+V04,Peak NDVI,index,1,58,0,computed
+V05,Fixed-window integrated NDVI,index-days,1,58,0,computed
+V06,NDVI asymmetry,ratio,1,32,26,candidate_subject_to_training_partition_80pct_rule
+V07,Peak EVI,index,1,58,0,computed
+V08,Fixed-window integrated EVI,index-days,1,58,0,computed
+V09,EVI at peak NDVI date,index,1,58,0,computed
+V10,Mean daytime LST,C,1,58,0,computed
+V11,Mean nighttime LST,C,1,58,0,computed_from_QC_mask_repaired_v3
+V12,Maximum daytime LST composite,C,1,58,0,computed
+V13,Seasonal rainfall,mm,2,58,0,computed
+V14,Peak monthly rainfall,mm,2,58,0,computed
+V15,Dry-month count (<50 mm),months,2,58,0,computed
+V16,First month backward 3-month rainfall >25 mm,month number,2,58,0,constant_exclude_within_training
+V17,Mean daily Tmax,C,2,58,0,computed
+V18,Mean daily Tmin,C,2,58,0,computed
+V19,GDD monthly approximation base 10 C,C-days,2,58,0,computed
+V20,Seasonal reference ETo,mm,2,58,0,computed
+V21,Rainfall minus ETo,mm,2,58,0,computed
+V22,Mean solar radiation,W/m2,2,58,0,computed
+V23,Clay,%,3,58,0,computed
+V24,Sand,%,3,58,0,computed
+V25,Organic carbon,g/kg,3,58,0,computed
+V26,pH,pH,3,58,0,computed
+V27,Available water capacity,mm/100cm,3,0,58,pending_source_or_derivation
+V28,Bulk density,g/cm3,3,58,0,computed
+V29,Effective CEC,cmol(+)/kg,3,58,0,computed
+V30,Total nitrogen,g/kg,3,58,0,computed
+V31,Extractable phosphorus,mg/kg,3,58,0,computed
+V32,Elevation,m,3,58,0,computed
+V33,Slope,%,3,58,0,computed
