@@ -1,0 +1,21 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "optuna": "5.0.0",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10",
+    "joblib": "1.5.3"
+  },
+  "checks": [
+    "input hashes matched",
+    "features rebuilt",
+    "feature verification passed",
+    "model inputs assembled",
+    "Python syntax compiled"
+  ],
+  "research_models_started_in_starter": false
+}
