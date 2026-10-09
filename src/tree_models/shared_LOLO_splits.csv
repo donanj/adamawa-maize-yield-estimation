@@ -1,0 +1,122 @@
+panel,lga_name,crop_year,fold,train_rows,train_lgas,test_rows
+main_min5,Demsa,2010,Demsa,55,16,3
+main_min5,Demsa,2012,Demsa,55,16,3
+main_min5,Demsa,2015,Demsa,55,16,3
+main_min5,Ganye,2010,Ganye,53,16,5
+main_min5,Ganye,2012,Ganye,53,16,5
+main_min5,Ganye,2015,Ganye,53,16,5
+main_min5,Ganye,2018,Ganye,53,16,5
+main_min5,Ganye,2023,Ganye,53,16,5
+main_min5,Girei,2018,Girei,56,16,2
+main_min5,Girei,2023,Girei,56,16,2
+main_min5,Gombi,2010,Gombi,53,16,5
+main_min5,Gombi,2012,Gombi,53,16,5
+main_min5,Gombi,2015,Gombi,53,16,5
+main_min5,Gombi,2018,Gombi,53,16,5
+main_min5,Gombi,2023,Gombi,53,16,5
+main_min5,Hong,2010,Hong,53,16,5
+main_min5,Hong,2012,Hong,53,16,5
+main_min5,Hong,2015,Hong,53,16,5
+main_min5,Hong,2018,Hong,53,16,5
+main_min5,Hong,2023,Hong,53,16,5
+main_min5,Jada,2018,Jada,56,16,2
+main_min5,Jada,2023,Jada,56,16,2
+main_min5,Lamurde,2010,Lamurde,53,16,5
+main_min5,Lamurde,2012,Lamurde,53,16,5
+main_min5,Lamurde,2015,Lamurde,53,16,5
+main_min5,Lamurde,2018,Lamurde,53,16,5
+main_min5,Lamurde,2023,Lamurde,53,16,5
+main_min5,Madagali,2010,Madagali,53,16,5
+main_min5,Madagali,2012,Madagali,53,16,5
+main_min5,Madagali,2015,Madagali,53,16,5
+main_min5,Madagali,2018,Madagali,53,16,5
+main_min5,Madagali,2023,Madagali,53,16,5
+main_min5,Maiha,2018,Maiha,56,16,2
+main_min5,Maiha,2023,Maiha,56,16,2
+main_min5,Mayo-Belwa,2010,Mayo-Belwa,53,16,5
+main_min5,Mayo-Belwa,2012,Mayo-Belwa,53,16,5
+main_min5,Mayo-Belwa,2015,Mayo-Belwa,53,16,5
+main_min5,Mayo-Belwa,2018,Mayo-Belwa,53,16,5
+main_min5,Mayo-Belwa,2023,Mayo-Belwa,53,16,5
+main_min5,Michika,2018,Michika,56,16,2
+main_min5,Michika,2023,Michika,56,16,2
+main_min5,Mubi North,2012,Mubi North,57,16,1
+main_min5,Mubi South,2010,Mubi South,53,16,5
+main_min5,Mubi South,2012,Mubi South,53,16,5
+main_min5,Mubi South,2015,Mubi South,53,16,5
+main_min5,Mubi South,2018,Mubi South,53,16,5
+main_min5,Mubi South,2023,Mubi South,53,16,5
+main_min5,Numan,2010,Numan,57,16,1
+main_min5,Song,2010,Song,53,16,5
+main_min5,Song,2012,Song,53,16,5
+main_min5,Song,2015,Song,53,16,5
+main_min5,Song,2018,Song,53,16,5
+main_min5,Song,2023,Song,53,16,5
+main_min5,Toungo,2018,Toungo,56,16,2
+main_min5,Toungo,2023,Toungo,56,16,2
+main_min5,Yola South,2012,Yola South,55,16,3
+main_min5,Yola South,2015,Yola South,55,16,3
+main_min5,Yola South,2018,Yola South,55,16,3
+all_cells,Demsa,2010,Demsa,60,17,3
+all_cells,Demsa,2012,Demsa,60,17,3
+all_cells,Demsa,2015,Demsa,60,17,3
+all_cells,Ganye,2010,Ganye,58,17,5
+all_cells,Ganye,2012,Ganye,58,17,5
+all_cells,Ganye,2015,Ganye,58,17,5
+all_cells,Ganye,2018,Ganye,58,17,5
+all_cells,Ganye,2023,Ganye,58,17,5
+all_cells,Girei,2018,Girei,61,17,2
+all_cells,Girei,2023,Girei,61,17,2
+all_cells,Gombi,2010,Gombi,58,17,5
+all_cells,Gombi,2012,Gombi,58,17,5
+all_cells,Gombi,2015,Gombi,58,17,5
+all_cells,Gombi,2018,Gombi,58,17,5
+all_cells,Gombi,2023,Gombi,58,17,5
+all_cells,Hong,2010,Hong,58,17,5
+all_cells,Hong,2012,Hong,58,17,5
+all_cells,Hong,2015,Hong,58,17,5
+all_cells,Hong,2018,Hong,58,17,5
+all_cells,Hong,2023,Hong,58,17,5
+all_cells,Jada,2018,Jada,61,17,2
+all_cells,Jada,2023,Jada,61,17,2
+all_cells,Lamurde,2010,Lamurde,58,17,5
+all_cells,Lamurde,2012,Lamurde,58,17,5
+all_cells,Lamurde,2015,Lamurde,58,17,5
+all_cells,Lamurde,2018,Lamurde,58,17,5
+all_cells,Lamurde,2023,Lamurde,58,17,5
+all_cells,Madagali,2010,Madagali,58,17,5
+all_cells,Madagali,2012,Madagali,58,17,5
+all_cells,Madagali,2015,Madagali,58,17,5
+all_cells,Madagali,2018,Madagali,58,17,5
+all_cells,Madagali,2023,Madagali,58,17,5
+all_cells,Maiha,2018,Maiha,61,17,2
+all_cells,Maiha,2023,Maiha,61,17,2
+all_cells,Mayo-Belwa,2010,Mayo-Belwa,58,17,5
+all_cells,Mayo-Belwa,2012,Mayo-Belwa,58,17,5
+all_cells,Mayo-Belwa,2015,Mayo-Belwa,58,17,5
+all_cells,Mayo-Belwa,2018,Mayo-Belwa,58,17,5
+all_cells,Mayo-Belwa,2023,Mayo-Belwa,58,17,5
+all_cells,Michika,2018,Michika,61,17,2
+all_cells,Michika,2023,Michika,61,17,2
+all_cells,Mubi North,2010,Mubi North,60,17,3
+all_cells,Mubi North,2012,Mubi North,60,17,3
+all_cells,Mubi North,2015,Mubi North,60,17,3
+all_cells,Mubi South,2010,Mubi South,58,17,5
+all_cells,Mubi South,2012,Mubi South,58,17,5
+all_cells,Mubi South,2015,Mubi South,58,17,5
+all_cells,Mubi South,2018,Mubi South,58,17,5
+all_cells,Mubi South,2023,Mubi South,58,17,5
+all_cells,Numan,2010,Numan,61,17,2
+all_cells,Numan,2015,Numan,61,17,2
+all_cells,Song,2010,Song,58,17,5
+all_cells,Song,2012,Song,58,17,5
+all_cells,Song,2015,Song,58,17,5
+all_cells,Song,2018,Song,58,17,5
+all_cells,Song,2023,Song,58,17,5
+all_cells,Toungo,2018,Toungo,61,17,2
+all_cells,Toungo,2023,Toungo,61,17,2
+all_cells,Yola North,2018,Yola North,62,17,1
+all_cells,Yola South,2012,Yola South,59,17,4
+all_cells,Yola South,2015,Yola South,59,17,4
+all_cells,Yola South,2018,Yola South,59,17,4
+all_cells,Yola South,2023,Yola South,59,17,4
